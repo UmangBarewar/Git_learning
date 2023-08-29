@@ -1,0 +1,29 @@
+Git Commands
+1.git config --global user.name "Umang Barewar"
+2.git config --global user.email umangbarewar28@gmail.com
+3.git status
+4.git init
+5.git config -h
+6.git add index.htm
+7.git rm--cached inde.htm
+8.git commit -m ""
+9.git commit -a -m ""
+10.git diff
+11.git add index.htm
+12. git status .
+13.git rm "index.htm"
+14.git restore "secret recipe.htm"
+15.git mv "KCC Logo.png" "Prim.png"
+16.git log
+17.git log --oneline
+18. git commit -m "Changed file name" --amend
+19.git log --p
+20. git reset 8191679
+21. git branch fixtemp
+22. git branch
+23. git switch master
+24. git branch -d fixtemp
+25. git switch -c updatetext
+26.git fetch
+27.git merge
+28.git pull
